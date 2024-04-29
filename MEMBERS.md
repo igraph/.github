@@ -10,5 +10,4 @@ The core members are, in alphabetical order of family name:
 - Daniel Noom, https://github.com/GroteGnoom
 - Maëlle Salmon, https://github.com/maelle
 - Vincent Traag, https://github.com/vtraag
-- Brooke Foucault Welles
 - Fabio Zanini, https://github.com/iosonofabio
