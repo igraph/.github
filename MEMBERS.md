@@ -11,3 +11,4 @@ The core members are, in alphabetical order of family name:
 - Maëlle Salmon, https://github.com/maelle
 - Vincent Traag, https://github.com/vtraag
 - Fabio Zanini, https://github.com/iosonofabio
+- David Schoch, https://github.com/schochastics
